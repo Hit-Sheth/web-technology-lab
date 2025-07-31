@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(56, 84, 126);
+    
+}
+div {
+    background: rgba(203, 216, 203, 0.3) ;
+    padding-top: 5px;
+    padding-left: 25px;
+    margin: 20px;
+    border: 50px solid gray;
+}
+
+h1{
+    background-color: rgb(229, 233, 232);
+    background-image: url(water.jpg);
+    font-size: 50px;
+    color: rgb(212, 126, 12);
+    text-align: center;
+    text-transform: uppercase;
+  display: block;
+   gap: 50px;
+
+}
+.p3 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+.sp{
+    opacity: .3;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: 100;
+    text-indent: 1cm;
+}
